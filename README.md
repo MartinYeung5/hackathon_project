@@ -1,19 +1,18 @@
 # hackathon_project
 # 20220428
 
-[Current Problem]
+## Current Problem
 1. Every year, lots of expired cosmetic products have been delivered to landfill. It is really waste. But why?
 Actually, expired cosmetic products can become useful product in our life!! Not rubbish.
 
-[Solution]
+## Solution
 1. Expired cosmetic product can become the color pen for general painting needs.
 It maybe has some limitation of the color, but it can be used on different painting needs such as painting exercise, private painting course, school’s painting course and so on.
 I think we can collect the suitable expired cosmetic products and make it to become color pen. Then give the color pen to the group/region/organization who don’t have lots of money to buy color pen for painting course or painting event.
 Moreover, we can make the color pen as business product and sell it to the public. 
 * I hope this can support the project’s expense and let the project can work sustainability.  
  
-[Implementation]
-
+## Implementation
 Develop an web3 platform with NFT application. 
 Why?
 I want to increase the motivation for public to join the platform and let the funding/ resource can be recorded more transparent. 
