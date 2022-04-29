@@ -18,7 +18,7 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 
 #### NFT Usage
 ##### 1. Membership
-* User can record the donation record, can recieve profit from us, can have further applicaiton related to other NFT project and metaverse.
+* User can record the donation record, can recieve profit/color pen from us, can have further applicaiton related to other NFT project and metaverse.
 
  
 ## C. Implementation
@@ -59,15 +59,15 @@ they will receive the profit too.
 1. User need to have crypto wallet
 
 ### User
-1.	Public who has given the expired cosmetic products to us, will receive 1 NFT for member record. 
-NFT function: Membership
-They can receive the profit when their expired cosmetic products can become business product and sold.
-2.	Beneficiary who receives the support from us, will receive 1 NFT for support record.
-NFT function: record
-we can record the support record in order to prevent the overuse of resource
-3.	Partner who will support or collaborate with us to develop the project, will receive 1 NFT for partnership.
-For example, some people can help us to make the expired cosmetic products to become color pen, 
-we can utilize NFT as partner identity and pay the fee for their work. All payment will be recorded on blockchain and let public to know the expense.
+#### 1.	Public 
+* When thay donated the expired cosmetic products to us, will receive 1 NFT for member record. 
+* They can receive the profit when their expired cosmetic products can become business product and sold.
+#### 2.	Beneficiary 
+* When they receives the support from us, will receive 1 NFT for support record.
+* We can record the support record in order to prevent the overuse of resource.
+#### 3.	Partner 
+* When thay support or collaborate with us to develop the project, will receive 1 NFT for partnership.
+* For example, some people can help us to make the expired cosmetic products to become color pen. We can utilize NFT as partner identity and pay the fee for their work. All payment will be recorded on blockchain and let public to know the expense.
 
 At the project’s beginning, we may need some funding for the project operation, but I believe we can sustain the project at future. 
 Since we can develop the business product and receive some profit on it.
