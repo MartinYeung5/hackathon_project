@@ -79,7 +79,8 @@ Hong Kong (at the beginning)
 1. School
 2. Public who need free painting material 
 3. Public who have expried cosmetic products
-
+4. Paartner who can help us to reporduce the color pen from expried cosmetic products
+ 
 ## G. Project Impact
 1. Protect environment(can reuse the expired cosmetic products)
 2. Resource of paining (can provide lots of painting material to the Beneficiary Group)
