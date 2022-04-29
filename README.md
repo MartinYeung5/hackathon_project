@@ -1,11 +1,11 @@
 # hackathon_project
 # 20220428
 
-## Current Problem
+## A. Current Problem
 1. Every year, lots of expired cosmetic products have been delivered to landfill. It is really waste. But why?
 Actually, expired cosmetic products can become useful product in our life!! Not rubbish.
 
-## Solution
+## B. Solution
 ### collect > reproduce > business product > profit > sustain whole project
 1. Expired cosmetic product can become the color pen for general painting needs.
 It maybe has some limitation of the color, but it can be used on different painting needs such as painting exercise, private painting course, school’s painting course and so on.
@@ -14,9 +14,13 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 2.1. (charitable purpose) We can give the color pen to the group/region/organization who don’t have lots of money to buy color pen for painting course or painting event.
 
 2.2. (business purpose) We can make the color pen as business product and sell it to the public. 
-* I hope this can support the project’s expense and let the project can work sustainability.  
+
+#### Technial usage
+##### 1. NFT
+* As membership for user, can record the donation record, can recieve profit from us, can have further applicaiton related to other NFT project and metaverse.
+I hope this can support the project’s expense and let the project can work sustainability.  
  
-## Implementation
+## C. Implementation
 Develop an web3 platform with NFT application. 
 Why?
 I want to increase the motivation for public to join the platform and let the funding/ resource can be recorded more transparent. 
@@ -49,7 +53,7 @@ they will receive the profit too.
 3. using IPFS for NFT image storage ( 1 extra point) 
 4. using solidy for blockahin smart contract
 
-## Operation
+## D. Operation
 ### requirement
 1. User need to have crypto wallet
 
@@ -67,14 +71,15 @@ we can utilize NFT as partner identity and pay the fee for their work. All payme
 At the project’s beginning, we may need some funding for the project operation, but I believe we can sustain the project at future. 
 Since we can develop the business product and receive some profit on it.
  
-## Target Market
+## E. Target Market
 Hong Kong (at the beginning)
 
-## Target Group
+## F. Target Group
 1. School
 2. Public who need free painting material 
+3. Public who have expried cosmetic products
 
-## Project Impact
+## G. Project Impact
 1. Protect environment(can reuse the expired cosmetic products)
 2. Resource of paining (can provide lots of painting material to the Beneficiary Group)
  
