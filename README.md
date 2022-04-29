@@ -31,13 +31,16 @@ they will receive the profit too.
 2. NFT contract
 * create NFT
 
-3. Database design
+3. Donation contract
+* record the donation information
+
+4. Database design
 * Store all data, we only store key data on blockchain.
 
-4. Image design
+5. Image design
 * each NFT should have image cover
 
-5. CMS
+6. CMS
 * For admin, they can access to the CMS and add the new record to the blockhain.
 
 ### Technical points
