@@ -23,7 +23,7 @@ I want to increase the motivation for public to join the platform and let the fu
 Also, I want the project can have more opportunities to connect different NFT projects and metaverse.
 
 ### Key development
-1. web3 platform 
+#### 1. web3 platform 
 * User can record how many expired cosmetic products have been donated and check track their donation, 
 if the donation (expired cosmetic products) become business product and sold, 
 they will receive the profit too. 
