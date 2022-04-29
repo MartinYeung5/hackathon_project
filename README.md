@@ -21,6 +21,25 @@ Develop an web3 platform with NFT application.
 Why?
 I want to increase the motivation for public to join the platform and let the funding/ resource can be recorded more transparent. 
 Also, I want the project can have more opportunities to connect different NFT projects and metaverse.
+
+### Key development
+1. web3 platform 
+User can record how many expired cosmetic products have been donated and check track their donation, 
+if the donation (expired cosmetic products) become business product and sold, 
+they will receive the profit too. 
+
+2. NFT contract
+create NFT
+
+3. Database design
+Store all data, we only store key data on blockchain.
+
+4. Image design
+each NFT should have image cover
+
+5. CMS
+For admin, they can access to the CMS and add the new record to the blockhain.
+
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
 2. using orale database for backup data and store sensitive info related to user ( 1 extra point)
