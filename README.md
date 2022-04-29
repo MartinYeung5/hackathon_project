@@ -14,11 +14,12 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 2.1. (charitable purpose) We can give the color pen to the group/region/organization who don’t have lots of money to buy color pen for painting course or painting event.
 
 2.2. (business purpose) We can make the color pen as business product and sell it to the public. 
+* Remark: I hope this can support the project’s expense and let the project can work sustainability.  
 
 #### NFT Usage
 ##### 1. Membership
 * User can record the donation record, can recieve profit from us, can have further applicaiton related to other NFT project and metaverse.
-* Remark: I hope this can support the project’s expense and let the project can work sustainability.  
+
  
 ## C. Implementation
 Develop an web3 platform with NFT application. 
