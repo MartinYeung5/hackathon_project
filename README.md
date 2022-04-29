@@ -29,16 +29,16 @@ if the donation (expired cosmetic products) become business product and sold,
 they will receive the profit too. 
 
 2. NFT contract
-create NFT
+* create NFT
 
 3. Database design
-Store all data, we only store key data on blockchain.
+* Store all data, we only store key data on blockchain.
 
 4. Image design
-each NFT should have image cover
+* each NFT should have image cover
 
 5. CMS
-For admin, they can access to the CMS and add the new record to the blockhain.
+* For admin, they can access to the CMS and add the new record to the blockhain.
 
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
