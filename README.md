@@ -21,7 +21,17 @@ Develop an web3 platform with NFT application.
 Why?
 I want to increase the motivation for public to join the platform and let the funding/ resource can be recorded more transparent. 
 Also, I want the project can have more opportunities to connect different NFT projects and metaverse.
+### Technical points
+1. using polygon network (low cost) ( 1 extra point)
+2. using orale database for backup data and store sensitive info related to user ( 1 extra point)
+3. using IPFS for NFT image storage ( 1 extra point) 
+4. using solidy for blockahin smart contract
 
+## Operation
+### requirement
+1. User need to have crypto wallet
+
+### User
 1.	Public who has given the expired cosmetic products to us, will receive 1 NFT for member record. 
 NFT function: Membership
 They can receive the profit when their expired cosmetic products can become business product and sold.
