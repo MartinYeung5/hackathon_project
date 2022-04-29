@@ -18,7 +18,7 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 #### NFT Usage
 ##### 1. Membership
 * User can record the donation record, can recieve profit from us, can have further applicaiton related to other NFT project and metaverse.
-I hope this can support the project’s expense and let the project can work sustainability.  
+* Remark: I hope this can support the project’s expense and let the project can work sustainability.  
  
 ## C. Implementation
 Develop an web3 platform with NFT application. 
