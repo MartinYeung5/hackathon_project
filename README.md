@@ -58,6 +58,9 @@ they will receive the profit too.
 #### 8. Project Website
 * can introduct our project
 
+#### 9. Visual Report of data record
+* we will use Oracle APEX to develop it
+
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
 2. using orale database for backup data and store sensitive info related to user ( 1 extra point)
