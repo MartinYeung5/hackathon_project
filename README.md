@@ -93,7 +93,22 @@ Competitors will be able to use charts, diagrams, and tables to explain your ide
 ### requirement
 1. User need to have crypto wallet
 
-### User
+### Role
+### Donators (Collect products from donators): 
+1.	Collect expired cosmetic products from cosmetic manufacturers/ cosmetic shops. (we prefer the they can donate the products to us since we may don’t have money to support the payment for expired cosmetic products. However, we can share the profit with them. We can utilize the smart contract and blockchain network to ensure the manufacturers will receive some profit when our team get profit from the recycle product sale.)
+2.	Collect expired cosmetic products from public. We will setup different collection stations for public to donate their expired cosmetic products. In order to increase the motivation, we will give them 1 NFT as identity reorganization/membership. We will share our profit with them. It means that when we get profit form the expired cosmetic products, the donator will receive the profit too.
+
+#### Partners:
+1.	Recycling company and NGO, we will collaborate with them to promote green life and protect our Earth.
+2.	Color pen manufacturers/ watercolor manufacturers, we can collaborate with manufacturers to create high quantity of color in short time. 
+3.	Handicap/ socially vulnerable groups, we can create new job for them, the new job is responsible to make the watercolor from expired cosmetic products. The process is simple and we can create the watercolor at home or office. But it can only handle low quantity of color product.
+
+#### User/Buyer:
+1.School/painting school (Buyer), we can sign an agreement with them to have the long-term collaboration. Actually, every school may need lots of color consumption for painting class per year. If we can get some collaboration with school, it can support our business a lot.
+2.Beneficiary Group (User) such as grassroots who may not have much money to buy color for painting or learning purpose, we will send some free color to them in order to support their learning or hobby.
+3.Public (Buyer), they will buy our business products
+
+### Connection between User and NFT
 #### 1.	Public 
 * When thay donated the expired cosmetic products to us, will receive 1 NFT for member record. 
 * They can receive the profit when their expired cosmetic products can become business product and sold.
@@ -124,4 +139,7 @@ Hong Kong (at the beginning)
 * Goal - 12: Ensure sustainable consumption and production patterns.
 * Color pencil is consumables and i believe the factories have produced lots of color pencils every year, if we can have some substitute for traditional color pencil. it may be good for controlling the production.
 
-
+## H. How to make money?
+### 1.	Commission of transaction
+### 2. Special point: (maybe work at specific cities)
+Collect the expired cosmetic products from manufacturers/ cosmetic shops. Some cities may charge the fee of rubbish, we can image if the manufacturers/ cosmetic shops have generated lots of rubbish (expired cosmetic products) each year, they may need to pay lots of fee of rubbish charge. Therefore, if we can collect the rubbish from them and charge a lower price, I think they may love it. It means that we can help them to handle the rubbish.
