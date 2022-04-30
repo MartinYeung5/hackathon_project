@@ -46,7 +46,8 @@ they will receive the profit too.
 
 #### 5. Image design
 * each NFT should have image cover
-
+* For the NFT's image design, it may related to the project topic such as  cosmetic/environment/other interesting things
+ 
 #### 6. CMS
 * For admin, they can access to the CMS and add the new record to the blockhain.
 
