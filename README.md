@@ -64,6 +64,9 @@ they will receive the profit too.
 #### 9. Visual Report of data record
 * we will use Oracle APEX to develop it
 
+#### 10. Dummy data for database
+* we need to test the application by lots of dummy data
+
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
 2. using orale database for backup data and store sensitive info related to user ( 1 extra point)
