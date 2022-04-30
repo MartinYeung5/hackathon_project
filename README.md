@@ -17,7 +17,9 @@ We creat the web3 platform to provide the service for different parties to achie
 2. User porfile
 3. CMS for our partner: they can add the record for related action (add donation record/ transaction record) abd view report 
 4. marketplace for business product
-5. project information
+5. display project information
+6. mint NFT
+7. send NFT
 
 #### NFT Usage (application)
 ##### 1. Membership & Identity
