@@ -18,7 +18,7 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 
 #### NFT Usage (application)
 ##### 1. Membership & Identity
-* User can record the donation record, can recieve profit/color pen from us, can have further applicaiton related to other NFT project and metaverse.
+* User can record the donation record, can recieve profit/color from our partners, can have further applicaiton related to other NFT project and metaverse.
 * User can enjoy the benefit or service as the NFT owner
 * image format (jpeg/png)
 * image size (500 x 800)
@@ -99,14 +99,13 @@ Competitors will be able to use charts, diagrams, and tables to explain your ide
 2.	Public can donate or sell the expired cosmetic products to our partners. In order to increase the motivation, we will give them 1 NFT as identity reorganization/membership. Our partner can share their profit with them. It means that when Our partner get profit form the expired cosmetic products, the donator will receive the profit too.
 
 #### Partners:
-1.	Recycling company and NGO, we will collaborate with them to promote green life and protect our Earth.
-2.	Color pen manufacturers/ watercolor manufacturers, we can collaborate with manufacturers to create high quantity of color in short time. 
-3.	Handicap/ socially vulnerable groups, we can create new job for them, the new job is responsible to make the watercolor from expired cosmetic products. The process is simple and we can create the watercolor at home or office. But it can only handle low quantity of color product.
+1.	Recycling company and NGO, expired cosmetic products and recycle to new product (color pencil or watercolor).
+2.	Color pen manufacturers/ watercolor manufacturers, expired cosmetic products and recycle to new product (color pencil or watercolor)
 
 #### User/Buyer:
-1.School/painting school (Buyer), we can sign an agreement with them to have the long-term collaboration. Actually, every school may need lots of color consumption for painting class per year. If we can get some collaboration with school, it can support our business a lot.
-2.Beneficiary Group (User) such as grassroots who may not have much money to buy color for painting or learning purpose, we will send some free color to them in order to support their learning or hobby.
-3.Public (Buyer), they will buy our business products
+1.School/painting school (Buyer), They can sign an agreement with our partners to have the long-term collaboration. Actually, every school may need lots of color consumption for painting class per year. 
+2.Beneficiary Group (User) such as grassroots who may not have much money to buy color for painting or learning purpose, our partners can send some free color to them in order to support their learning or hobby. Our platform can record all resource allocation to prevent overuse.
+3.Public (Buyer), they can buy business products via our platform.
 
 ### Connection between User and NFT
 #### 1.	Public 
