@@ -16,7 +16,7 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 2.2. (business purpose) We can make the color pen as business product and sell it to the public. 
 * Remark: I hope this can support the project’s expense and let the project can work sustainability.  
 
-#### NFT Usage
+#### NFT Usage (application)
 ##### 1. Membership & Identity
 * User can record the donation record, can recieve profit/color pen from us, can have further applicaiton related to other NFT project and metaverse.
 * User can enjoy the benefit or service as the NFT owner
@@ -24,7 +24,9 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 * image size (500 x 800)
 * will design 3 style for 3 types user 
 
-
+#### Smart Contract (application)
+##### 1. Donation record
+##### 2. Make NFT
 
 ## C. Implementation
 Develop an web3 platform with NFT application. 
