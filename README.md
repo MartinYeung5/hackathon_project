@@ -19,6 +19,9 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 #### NFT Usage
 ##### 1. Membership
 * User can record the donation record, can recieve profit/color pen from us, can have further applicaiton related to other NFT project and metaverse.
+* image format (jpeg/png)
+* image size (500 x 800)
+* will design 3 style for 3 types user 
 
  
 ## C. Implementation
