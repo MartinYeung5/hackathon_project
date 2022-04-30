@@ -12,6 +12,13 @@ It maybe has some limitation of the color, but it can be used on different paint
 
 We creat the web3 platform to provide the service for different parties to achieve the "green purpose" together.
 
+### Platform's function
+1. User registration
+2. User porfile
+3. CMS for our partner: they can add the record for related action (add donation record/ transaction record) abd view report 
+4. marketplace for business product
+5. project information
+
 #### NFT Usage (application)
 ##### 1. Membership & Identity
 * User can record the donation record, can recieve profit/color from our partners, can have further applicaiton related to other NFT project and metaverse.
