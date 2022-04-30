@@ -70,6 +70,11 @@ they will receive the profit too.
 * we need to test the application by lots of dummy data
 * maybe 20 record (excel format) for one database and we will use this record in Oracle APEX application
 
+#### 11. Research
+* current situation of expired cosmetic products
+* recycle rate of expired cosmetic products
+* recycle process of expired cosmetic products
+
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
 2. using orale database for backup data and store sensitive info related to user ( 1 extra point)
