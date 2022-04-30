@@ -66,6 +66,7 @@ they will receive the profit too.
 
 #### 10. Dummy data for database
 * we need to test the application by lots of dummy data
+* maybe 20 record (excel format) for one database and we will use this record in Oracle APEX application
 
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
