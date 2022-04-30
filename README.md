@@ -9,7 +9,7 @@ Actually, expired cosmetic products can become useful product in our life!! Not 
 ### collect > reproduce > business product > profit > sustain whole project
 1. Expired cosmetic product can become the color pen for general painting needs.
 It maybe has some limitation of the color, but it can be used on different painting needs such as painting exercise, private painting course, school’s painting course and so on.
-I think we can collect the suitable expired cosmetic products and make it to become color pen.
+I think we can collect the suitable expired cosmetic products and make it to become color powder for water color / color pencil.
 
 2.1. (charitable purpose) We can give the color pen to the group/region/organization who don’t have lots of money to buy color pen for painting course or painting event.
 
