@@ -86,7 +86,7 @@ Hong Kong (at the beginning)
 2. Resource of paining (can provide lots of painting material to the Beneficiary Group)
  
 ###  UN Sustainable Development Goals
-* Goal - 12: Ensure sustainable consumption and production patterns
-
+* Goal - 12: Ensure sustainable consumption and production patterns.
+* Color pencil is consumables and i believe the factories have produced lots of color pencils every year, if we can have some substitute for traditional color pencil. it may be good for controlling the production.
 
 
