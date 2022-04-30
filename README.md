@@ -121,10 +121,10 @@ Since we can develop the business product and receive some profit on it.
 Hong Kong (at the beginning)
 
 ## F. Target Group
-1. School
-2. Public who need free painting material 
-3. Public who have expried cosmetic products
-4. Paartner who can help us to reporduce the color pen from expried cosmetic products
+1. Organization or public who will use the color pencil or watercolor
+2. Organization or public who need free painting material 
+3. Organization or public who have expried cosmetic products
+4. Partner who can recycle the expried cosmetic products to become color pencil or watercolor
  
 ## G. Project Impact
 1. Protect environment(can reuse the expired cosmetic products)
