@@ -17,13 +17,15 @@ I think we can collect the suitable expired cosmetic products and make it to bec
 * Remark: I hope this can support the project’s expense and let the project can work sustainability.  
 
 #### NFT Usage
-##### 1. Membership
+##### 1. Membership & Identity
 * User can record the donation record, can recieve profit/color pen from us, can have further applicaiton related to other NFT project and metaverse.
+* USer can enjoy the benefit or service as the NFT owner
 * image format (jpeg/png)
 * image size (500 x 800)
 * will design 3 style for 3 types user 
 
- 
+
+
 ## C. Implementation
 Develop an web3 platform with NFT application. 
 Why?
