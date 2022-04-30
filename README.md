@@ -60,6 +60,8 @@ they will receive the profit too.
 
 #### 7. Video Presentation
 * 8 mins for video presentation
+* Upload a video solution to YouTube or other video hosting platform
+Videos must be made public or through a private link for judges to assess
 ![image](https://user-images.githubusercontent.com/41377418/166092220-90607dc5-bfae-4df8-b6cc-df6b177249c9.png)
 
 #### 8. Project Website
@@ -76,6 +78,10 @@ they will receive the profit too.
 * current situation of expired cosmetic products
 * recycle rate of expired cosmetic products
 * recycle process of expired cosmetic products
+
+#### 12. Document
+* The document should be up to 8 pages in Microsoft Word, public link to Google docs, or PDF to describe your ideas
+Competitors will be able to use charts, diagrams, and tables to explain your ideas with any appendix attached
 
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
