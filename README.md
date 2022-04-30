@@ -41,6 +41,8 @@ they will receive the profit too.
 
 #### 4. Database design
 * Store all data, we only store key data on blockchain.
+* 
+![db_20220430](https://user-images.githubusercontent.com/41377418/166092027-1cc50bed-7bd6-4b10-bdd3-802076f9e11f.png)
 
 #### 5. Image design
 * each NFT should have image cover
