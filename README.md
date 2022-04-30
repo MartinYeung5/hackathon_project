@@ -141,5 +141,3 @@ Hong Kong (at the beginning)
 
 ## H. How to make money?
 ### 1.	Commission of transaction
-### 2. Special point: (maybe work at specific cities)
-Collect the expired cosmetic products from manufacturers/ cosmetic shops. Some cities may charge the fee of rubbish, we can image if the manufacturers/ cosmetic shops have generated lots of rubbish (expired cosmetic products) each year, they may need to pay lots of fee of rubbish charge. Therefore, if we can collect the rubbish from them and charge a lower price, I think they may love it. It means that we can help them to handle the rubbish.
