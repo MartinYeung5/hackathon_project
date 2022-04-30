@@ -53,6 +53,7 @@ they will receive the profit too.
 
 #### 7. Video Presentation
 * 8 mins for video presentation
+![image](https://user-images.githubusercontent.com/41377418/166092220-90607dc5-bfae-4df8-b6cc-df6b177249c9.png)
 
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
