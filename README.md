@@ -7,14 +7,10 @@ Actually, expired cosmetic products can become useful product in our life!! Not 
 
 ## B. Solution
 ### collect > recycle > business product > profit > sustain whole project
-1. Expired cosmetic product can become the color powder of watercolor / color pencil.
+Expired cosmetic product can become the color powder of watercolor / color pencil.
 It maybe has some limitation of the color, but it can be used on different painting needs such as painting exercise, private painting course, school’s painting course and so on.
-I think we can collect the suitable expired cosmetic products and make it to become color powder of watercolor / color pencil.
 
-2.1. (charitable purpose) We can give the color pen to the group/region/organization who don’t have lots of money to buy color pen for painting course or painting event.
-
-2.2. (business purpose) We can make the color pen as business product and sell it to the public. 
-* Remark: I hope this can support the project’s expense and let the project can work sustainability.  
+We creat the web3 platform to provide the service for different parties to achieve the "green purpose" together.
 
 #### NFT Usage (application)
 ##### 1. Membership & Identity
