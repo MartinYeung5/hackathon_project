@@ -95,8 +95,8 @@ Competitors will be able to use charts, diagrams, and tables to explain your ide
 
 ### Role
 ### Donators (Collect products from donators): 
-1.	Collect expired cosmetic products from cosmetic manufacturers/ cosmetic shops. (we prefer the they can donate the products to us since we may don’t have money to support the payment for expired cosmetic products. However, we can share the profit with them. We can utilize the smart contract and blockchain network to ensure the manufacturers will receive some profit when our team get profit from the recycle product sale.)
-2.	Collect expired cosmetic products from public. We will setup different collection stations for public to donate their expired cosmetic products. In order to increase the motivation, we will give them 1 NFT as identity reorganization/membership. We will share our profit with them. It means that when we get profit form the expired cosmetic products, the donator will receive the profit too.
+1.	Cosmetic manufacturers/ cosmetic shops can donate or sell the expired cosmetic products to our partners
+2.	Public can donate or sell the expired cosmetic products to our partners. In order to increase the motivation, we will give them 1 NFT as identity reorganization/membership. Our partner can share their profit with them. It means that when Our partner get profit form the expired cosmetic products, the donator will receive the profit too.
 
 #### Partners:
 1.	Recycling company and NGO, we will collaborate with them to promote green life and protect our Earth.
