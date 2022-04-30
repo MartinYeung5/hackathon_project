@@ -27,7 +27,7 @@ Why?
 I want to increase the motivation for public to join the platform and let the funding/ resource can be recorded more transparent. 
 Also, I want the project can have more opportunities to connect different NFT projects and metaverse.
 
-### Key development
+### Key development/Tasks
 #### 1. web3 platform 
 * User can record how many expired cosmetic products have been donated and check track their donation, 
 if the donation (expired cosmetic products) become business product and sold, 
@@ -50,6 +50,9 @@ they will receive the profit too.
  
 #### 6. CMS
 * For admin, they can access to the CMS and add the new record to the blockhain.
+
+#### 7. Video Presentation
+* 8 mins for video presentation
 
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
