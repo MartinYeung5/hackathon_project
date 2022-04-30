@@ -44,7 +44,7 @@ they will receive the profit too.
 #### 3. Donation contract
 * record the donation information
 
-#### 4. Database design
+#### 4. Database design (Done)
 * Store all data, we only store key data on blockchain.
 * Database Structure (2022.04.30 updated)
 ![db_20220430](https://user-images.githubusercontent.com/41377418/166092027-1cc50bed-7bd6-4b10-bdd3-802076f9e11f.png)
