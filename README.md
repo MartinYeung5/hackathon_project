@@ -55,6 +55,9 @@ they will receive the profit too.
 * 8 mins for video presentation
 ![image](https://user-images.githubusercontent.com/41377418/166092220-90607dc5-bfae-4df8-b6cc-df6b177249c9.png)
 
+#### 8. Project Website
+* can introduct our project
+
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
 2. using orale database for backup data and store sensitive info related to user ( 1 extra point)
