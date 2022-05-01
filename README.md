@@ -61,8 +61,8 @@ they will receive the profit too.
 * each NFT should have image cover
 * For the NFT's image design, it may related to the project topic such as cosmetic/environment/other interesting things
 <img src="https://user-images.githubusercontent.com/41377418/166137560-d58d37b2-5c96-4723-a503-e05878ae443d.png" width="502" height="295">
-![Member_Card_Receiver](https://user-images.githubusercontent.com/41377418/166137564-71941afb-6f2e-447d-bc0d-8d8a0258fc1f.png)
-![Member_Card_Donator](https://user-images.githubusercontent.com/41377418/166137566-eaca94ff-25ee-4ca5-bc86-6e48cd6e0462.png)
+<img src="https://user-images.githubusercontent.com/41377418/166137564-71941afb-6f2e-447d-bc0d-8d8a0258fc1f.png" width="502" height="295">
+<img src="https://user-images.githubusercontent.com/41377418/166137566-eaca94ff-25ee-4ca5-bc86-6e48cd6e0462.png" width="502" height="295">
  
 #### 6. CMS
 * For admin, they can access to the CMS and add the new record to the blockhain.
