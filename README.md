@@ -48,6 +48,8 @@ they will receive the profit too.
 
 #### 2. NFT contract
 * create NFT
+0x4ABfF17c37d04E33dC1D6fAFE46b6ccE0A755E75
+https://mumbai.polygonscan.com/address/0x4ABfF17c37d04E33dC1D6fAFE46b6ccE0A755E75
 
 #### 3. Donation contract
 * record the donation information
@@ -91,6 +93,12 @@ Videos must be made public or through a private link for judges to assess
 #### 12. Document
 * The document should be up to 8 pages in Microsoft Word, public link to Google docs, or PDF to describe your ideas
 Competitors will be able to use charts, diagrams, and tables to explain your ideas with any appendix attached
+
+#### 13. Datastore
+* IPFS for NFT data
+Partner: https://ipfs.io/ipfs/QmQFqsU5G8x91VsX3ei7WpGGAzP53soij3uetubPWM58Zh
+Receiver: https://ipfs.io/ipfs/QmSiNuYjHZyk5g9rYRDtXuz4X2xvvDQbhbLA94ApFXrBGb
+Donator: https://ipfs.io/ipfs/Qmao4HPogK83iQHWo1uQhMQjPR3AMiRajuELYFTJpWWNVt
 
 ### Technical points
 1. using polygon network (low cost) ( 1 extra point)
