@@ -27,7 +27,7 @@ We creat the web3 platform to provide the service for different parties to achie
 * User can record the donation record, can recieve profit/color from our partners, can have further applicaiton related to other NFT project and metaverse.
 * User can enjoy the benefit or service as the NFT owner
 * image format (jpeg/png)
-* image size (500 x 800)
+* image size (800 x 500) or similar size (maybe look like geneal name card/ membership card)
 * will design 3 style for 3 types user 
 
 #### Smart Contract (application)
