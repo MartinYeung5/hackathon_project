@@ -46,7 +46,7 @@ Also, I want the project can have more opportunities to connect different NFT pr
 if the donation (expired cosmetic products) become business product and sold, 
 they will receive the profit too. 
 
-#### 2. NFT contract
+#### 2. NFT contract (Done)
 * create NFT
 0x4ABfF17c37d04E33dC1D6fAFE46b6ccE0A755E75
 https://mumbai.polygonscan.com/address/0x4ABfF17c37d04E33dC1D6fAFE46b6ccE0A755E75
@@ -59,7 +59,7 @@ https://mumbai.polygonscan.com/address/0x4ABfF17c37d04E33dC1D6fAFE46b6ccE0A755E7
 * Database Structure (2022.04.30 updated)
 ![db_20220430](https://user-images.githubusercontent.com/41377418/166092027-1cc50bed-7bd6-4b10-bdd3-802076f9e11f.png)
 
-#### 5. Image design
+#### 5. Image design (just for test, not final version)
 * each NFT should have image cover
 * For the NFT's image design, it may related to the project topic such as cosmetic/environment/other interesting things
 <img src="https://user-images.githubusercontent.com/41377418/166137560-d58d37b2-5c96-4723-a503-e05878ae443d.png" width="502" height="295">
@@ -94,7 +94,7 @@ Videos must be made public or through a private link for judges to assess
 * The document should be up to 8 pages in Microsoft Word, public link to Google docs, or PDF to describe your ideas
 Competitors will be able to use charts, diagrams, and tables to explain your ideas with any appendix attached
 
-#### 13. Datastore
+#### 13. Datastore (Used)
 * IPFS for NFT data
 Partner: https://ipfs.io/ipfs/QmQFqsU5G8x91VsX3ei7WpGGAzP53soij3uetubPWM58Zh
 Receiver: https://ipfs.io/ipfs/QmSiNuYjHZyk5g9rYRDtXuz4X2xvvDQbhbLA94ApFXrBGb
