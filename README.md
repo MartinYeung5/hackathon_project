@@ -20,6 +20,7 @@ We creat the web3 platform to provide the service for different parties to achie
 5. display project information
 6. mint NFT (for our team admin)
 7. send NFT (for partner)
+8. event page
 
 #### NFT Usage (application)
 ##### 1. Membership & Identity
