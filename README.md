@@ -158,3 +158,8 @@ Hong Kong (at the beginning)
 
 ## H. How to make money?
 ### 1.	Commission of transaction
+
+## I. Submission 
+* Video
+* Document
+![image](https://user-images.githubusercontent.com/41377418/166179405-8bd6493a-16cf-4db6-8ca3-df7840dd965f.png)
