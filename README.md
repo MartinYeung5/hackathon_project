@@ -162,4 +162,4 @@ Hong Kong (at the beginning)
 ## I. Submission 
 * Video
 * Document
-![image](https://user-images.githubusercontent.com/41377418/166179405-8bd6493a-16cf-4db6-8ca3-df7840dd965f.png)
+* ![image](https://user-images.githubusercontent.com/41377418/166179405-8bd6493a-16cf-4db6-8ca3-df7840dd965f.png)
