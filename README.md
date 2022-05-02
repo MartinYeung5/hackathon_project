@@ -83,7 +83,7 @@ Videos must be made public or through a private link for judges to assess
 
 #### 9. Visual Report of data record (done)
 * we will use Oracle APEX to develop it
-* https://apex.oracle.com/pls/apex/r/martin2022/user-data-20220502/home?session=100339602761994
+* https://apex.oracle.com/pls/apex/r/martin2022/user-data/home?session=6017409063903
 
 #### 10. Dummy data for database (done)
 * we need to test the application by lots of dummy data
