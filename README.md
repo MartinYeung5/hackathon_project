@@ -81,10 +81,11 @@ Videos must be made public or through a private link for judges to assess
 #### 8. Project Website
 * can introduct our project
 
-#### 9. Visual Report of data record
+#### 9. Visual Report of data record (done)
 * we will use Oracle APEX to develop it
+* https://apex.oracle.com/pls/apex/r/martin2022/user-data-20220502/home?session=100339602761994
 
-#### 10. Dummy data for database
+#### 10. Dummy data for database (done)
 * we need to test the application by lots of dummy data
 * maybe 20 record (excel format) for one database and we will use this record in Oracle APEX application
 
