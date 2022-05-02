@@ -44,6 +44,9 @@ Also, I want the project can have more opportunities to connect different NFT pr
 #### code repo
 * https://github.com/MartinYeung5/NFTProject202220429
 
+#### Demo link
+＊https://drive.google.com/file/d/1X227vkwY5Itt-qbEWZVnXVrVSuWC4-Eb/view?usp=sharing
+
 #### 1. web3 platform 
 * User can record how many expired cosmetic products have been donated and check track their donation, 
 if the donation (expired cosmetic products) become business product and sold, 
